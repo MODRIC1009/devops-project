@@ -136,6 +136,14 @@ The application exposes a `/metrics` endpoint using `prometheus-flask-exporter`.
 - Request latency
 - Error rate
 
+## 📸 Proof of Working Setup
+
+### Grafana Dashboard — Live Metrics
+![Grafana Dashboard](screenshots/Grafana.png)
+
+### Prometheus Target Health
+![Prometheus Targets](screenshots/Prometheus.png)
+
 ## 📝 Notes
 
 This project was built as part of a Week 1 DevOps & Platform Engineering learning plan, covering Linux fundamentals, cloud infrastructure concepts, containerization, CI/CD, and monitoring/observability principles.
